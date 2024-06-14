@@ -16,7 +16,6 @@ require (
 	github.com/mitchellh/mapstructure v1.4.1 // indirect
 	github.com/onsi/gomega v1.10.5
 	github.com/open-policy-agent/opa v0.29.4
-	github.com/pkg/errors v0.9.1 // indirect
 	github.com/prometheus/client_golang v1.10.0 // indirect
 	github.com/prometheus/common v0.25.0 // indirect
 	github.com/rcrowley/go-metrics v0.0.0-20201227073835-cf1acfcdf475 // indirect
@@ -24,7 +23,7 @@ require (
 	github.com/spf13/pflag v1.0.5
 	golang.org/x/net v0.0.0-20210525063256-abc453219eb5
 	golang.org/x/oauth2 v0.0.0-20210514164344-f6687ab2804c // indirect
-	golang.org/x/sys v0.0.0-20210601080250-7ecdf8ef093b // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	golang.org/x/term v0.0.0-20210503060354-a79de5458b56 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/genproto v0.0.0-20210602131652-f16073e35f0c // indirect
@@ -33,7 +32,7 @@ require (
 	k8s.io/client-go v0.20.2
 	k8s.io/klog/v2 v2.9.0 // indirect
 	k8s.io/kube-openapi v0.0.0-20210527164424-3c818078ee3d // indirect
-	k8s.io/utils v0.0.0-20210527160623-6fdb442a123b // indirect
+	k8s.io/utils v0.0.0-20210527160623-6fdb442a123b
 	sigs.k8s.io/apiserver-network-proxy/konnectivity-client v0.0.19 // indirect
 	sigs.k8s.io/controller-runtime v0.8.3
 	sigs.k8s.io/structured-merge-diff/v4 v4.1.1 // indirect
